@@ -136,7 +136,12 @@ MORE GLOBAL CSS
   background: var(--clr-primary-light);
 }
 
-
+.clearfix::before,
+.clearfix::after{
+  content: '';
+  clear: both;
+  display: table;
+}
 
 
 /*
@@ -228,5 +233,10 @@ HEADER
   .skill{
     float: left;
     width: 50%;
+  }
+}
+@media screen and (min-width:1200px){
+  .skill{
+    width: 25%;
   }
 }
