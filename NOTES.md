@@ -22,6 +22,30 @@ Updated html/css for the footer.
 
 [Back To The Top](#course-notes)
 
+## Section 181,182
+
+### Nav Button
+
+- Hamburger menu style button that floats as the page is scrolled. Used a z-index to keep it above other pictures so that it floats.
+
+### Git Commit
+
+Added hamberger menu style button to navbar
+
+[Back To The Top](#course-notes)
+
+## Section 183
+
+### Navbar html
+
+started some of the structure for navhtml
+
+### Git Commit
+
+started some of the structure for navhtml
+
+[Back To The Top](#course-notes)
+
 ## Section __
 
 ### Name of Section
@@ -33,3 +57,4 @@ Breif description of the section's purpose.
 If there is or will be a Git commit message place that here.
 
 [Back To The Top](#course-notes)
+
