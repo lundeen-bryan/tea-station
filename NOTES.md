@@ -16,7 +16,8 @@ You're sections headers will be used to reference location of destination.
 - Added hamberger menu style button to navbar
 - started some of the structure for navhtml
 - started some of the structure for navhtml
-- Breif description of the section's purpose. 
+- §184 only show the navbar when the hamburermenu is clicked
+- hide the navbar by using transform: translateX(-100%) so that the bar is taken off the screen and will only show later when it's being used. In the .showNav class we can manipulate the navbar to show. By default in .navbar it is hidden using tranlateX. all the classes have to be exactly the same as Johns or the javascript file will not work right. 
 
 
 ### Git Commit
