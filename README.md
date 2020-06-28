@@ -7,7 +7,7 @@
 ---
 ### Link To Project
 
-See the [Project Name](project-url) on Linkify.
+See the [Tea Station](https://lundeen-bryan-tea-station.netlify.app/) on Netlify.
 
 ---
 
@@ -26,7 +26,7 @@ You're sections headers will be used to reference location of destination.
 
 This project demonstrates the use of HTML5/CSS3 in particular the use of css to make a responsive website. 
 
-Project based on [Project Based On](https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/)
+Project based on [Tea Station on John Smigla's HTML/CSS Course](https://www.udemy.com/course/in-depth-html-css-course-build-responsive-websites/)
 
 #### Technologies
 
